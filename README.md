@@ -1,2 +1,2 @@
-#project-template
+#nproject-template
 This is the official template for student's projects
