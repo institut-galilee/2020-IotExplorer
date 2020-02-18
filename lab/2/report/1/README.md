@@ -20,4 +20,4 @@ Créer un squelette comprenant 5 composant
 ![Sketch](sketch.png)
 
 ##### Schematic
-![schematic](shematic.png)
+![schematic](schematic.png)
